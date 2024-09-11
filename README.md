@@ -11,5 +11,6 @@
 7. Store form data in the app state
 7. Mimic success response using any mock API
 8. Add success form submition flow
+9. Add unit tests for main components and functionality
 
-Requirements: clean, reusable code, keep components as clean as possible
+Requirements: clean, reusable code, keep components as clean as possible, test coverage should not be less than 60%
